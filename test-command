@@ -1,5 +1,5 @@
 nmap -sV -Pn -p T:25565 <instance_public_ip> 
 
 
-nmap -sV -Pn -p T:25565 54.185.36.92
+nmap -sV -Pn -p T:25565 add
 
